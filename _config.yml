@@ -1,1 +1,7 @@
+title: XMC
+author:
+  name: shay
+description: XMC is a fabric-vanilla Minecraft server.
 theme: minima
+minima:
+  skin: auto
