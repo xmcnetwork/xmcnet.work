@@ -1,6 +1,6 @@
 We have many modifications that we believe enhance the vanilla experience and make it more enjoyable in the long term. See the full list [here in a convenient Google doc](/features).
 
-Take a look at our [web map](http://map.xmcnet.work:25572)!
+Take a look at our [web map](https://map.xmcnet.work)!
 
 # Join the server
 
